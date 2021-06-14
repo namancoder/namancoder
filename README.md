@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namancoder&show_icons=true&theme=tokyonight&locale=en" alt="namancoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namancoder&" alt="namancoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namancoder&theme=tokyonight" alt="namancoder" /></p>
