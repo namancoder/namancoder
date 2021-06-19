@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hunterasiam" target="blank"><img src="https://img.shields.io/twitter/follow/hunterasiam?logo=twitter&style=for-the-badge" alt="hunterasiam" /></a> </p>
 
-![Activity - Referesh to load](https://guarded-peak-25044.herokuapp.com/graph?username=namancoder&theme=react-dark)
+![Activity - Referesh to load](https://guarded-peak-25044.herokuapp.com/graph?username=namancoder&theme=react-dark&area=true)
 
 
 - 🌱 I’m currently learning **ML and its branches.**
