@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naman-gupta-1025a8197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naman-gupta-1025a8197/" height="30" width="40" /></a>
 <a href="https://fb.com/volvareen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="volvareen" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/namancoder" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="namancoder" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/namancoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="namancoder" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/namancoder" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/code-forces-3629285-3031869.png" alt="namancoder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
