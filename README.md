@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **namanitsofficial@gmail.com**
 
-- ⚡ Fun fact - **I am Funny😐**
+- ⚡ Fun fact - **I am Funny , I guess 😐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
