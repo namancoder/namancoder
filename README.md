@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namancoder&label=Profile%20views&color=0e75b6&style=flat" alt="namancoder" /> </p>   
 
-[Portfolio](https://namancoder.github.io/) || [Resume](https://drive.google.com/file/d/1fFndxC32v14UuUkJUVpnb-74h-CNsu31/view?usp=sharing)  
+[Portfolio](https://namancoder.github.io/) || [Resume](https://drive.google.com/file/d/1iAC1yGwaIwT2knWOIUIf-5EGZu_zS60k/view?usp=sharing)  
 
 <p align="left"> <a href="https://twitter.com/hunterasiam" target="blank"><img src="https://img.shields.io/twitter/follow/hunterasiam?logo=twitter&style=for-the-badge" alt="hunterasiam" /></a> </p>
 
