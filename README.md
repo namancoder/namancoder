@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Gupta</h1>
 <h3 align="center"><strike>A passionate student from KIIT University,India. (4th year-BTech-CSE)</strike></h3>
+<h3 align="center">Engineer at Harness.io</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namancoder&label=Profile%20views&color=0e75b6&style=flat" alt="namancoder" /> </p>   
 
